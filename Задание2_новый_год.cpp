@@ -5,9 +5,9 @@ int main() {
 	int d;
 	int m;
 	int s;
-	cout << "ââåäèòå äåíü" << endl;
+	cout << "Ğ²Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ´ĞµĞ½ÑŒ" << endl;
 	cin >> d;
-	cout << "ââåäèòå ìåñÿö" << endl;
+	cout << "Ğ²Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ¼ĞµÑÑÑ†" << endl;
 	cin >> m;
 	if (m <= 12 && d <= 31) {
 		if (m == 1) {
